@@ -58,9 +58,10 @@ We operate on two major fronts: **Innovation** and **Infrastructure**.
 
 ### 1. 💻 Innovation & Development
 We are the incubator for student projects. We turn ideas into deployable software and hardware.
-- **Project Incubation:** Support for student-led startups and research.
 - **Hackathons:** Organizing coding battles to sharpen skills.
 - **Open Source:** Encouraging contributions to the global dev community.
+- Enables interdisciplinary collaboration
+- Organises workshops on emerging technologies
 
 ### 2. 🔧 Infrastructure & Audio Engineering
 We are the crew behind the curtains. If an event sounds good and looks good, CTA is on the console.
@@ -69,7 +70,7 @@ We are the crew behind the curtains. If an event sounds good and looks good, CTA
 - **Inventory Management:** Maintaining the university's high-end technical assets (Mixers, Consoles, Lighting).
 
 <details>
-<summary><b>🎛️ Click to see our Logistics Capabilities</b></summary>
+<summary><b>🎛️ Click to see our upcoming Logistics Capabilities</b></summary>
 <br>
 
 * **Audio Consoles:** Yamaha / Digital Mixers
@@ -86,12 +87,12 @@ CTA acts as the parent body for **six specialized clubs**, ensuring every niche 
 
 | Club | Focus Area | Tech Stack / Keywords |
 | :--- | :--- | :--- |
-| **1. Technological Club** | Emerging Tech | `AI/ML` `Web3` `Cloud` `Cybersecurity` |
-| **2. Competitive Programming** | Algorithms | `C++` `DSA` `LeetCode` `CodeForces` |
-| **3. Business & Finance** | Fintech & Analytics | `Data Science` `Stocks` `Entrepreneurship` |
-| **4. Astronomy Club** | Space Science | `Telescopes` `Astrophysics` `Stargazing` |
-| **5. Design Club** | Creative Arts | `UI/UX` `Figma` `Blender` `Branding` |
-| **6. Robotics Club** | Hardware | `IoT` `Arduino` `Automation` `Drones` |
+| **1. Technological Club** | Emerging Tech | `AI/ML` `Web3` `Cloud` `Cybersecurity` `Git & GitHub` `Web Dev` `Linux` | Exploring emerging tech, software design, and system architecture. |
+| **2. Competitive Programming** | Algorithms | `C++` `DSA` `LeetCode` `CodeForces` | Coding contests, interview prep, and global algorithm competitions. |
+| **3. Business & Finance** | Fintech & Analytics | `Finance` `Stocks` `Entrepreneurship` | Bridging tech with business, financial modeling, and data-driven decisions. |
+| **4. Astronomy Club** | Space Science | `Telescopes` `Astrophysics` `Stargazing` | Telescope observations, astrophotography, and sky mapping. |
+| **5. Design Club** | Creative Arts | `UI/UX` `Figma` `Blender` `Branding` `Animation`| Digital creativity, motion graphics, prototyping, and visual storytelling. |
+| **6. Robotics Club** | Hardware | `IoT` `Arduino` `Automation` `Drones`  | Embedded systems, hardware innovation, and real-world engineering. |
 
 ---
 
@@ -112,10 +113,15 @@ Got a project idea? Need technical support for an event? Reach out to us.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Us-red?style=for-the-badge&logo=gmail)](mailto:cta@jklu.edu.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram)](https://instagram.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Us-red?style=for-the-badge&logo=gmail)](mailto:counciloftechnicalaffairs@jklu.edu.in)
+
 
 **📍 JK Lakshmipat University, Jaipur**
 
+</div>
+
+<br>
+
+<div align="center">
+  <img src="JKLU White.png" alt="JKLU White Logo" width="250" />
 </div>
