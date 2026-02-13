@@ -11,8 +11,8 @@
 <br>
 
 [![JKLU](https://img.shields.io/badge/University-JKLU-red?style=for-the-badge&logo=google-academic)](https://jklu.edu.in)
-[![Tech Hub](https://img.shields.io/badge/Focus-Tech_Hub-blue?style=for-the-badge&logo=react)](https://github.com/cta-jklu)
-[![Logistics](https://img.shields.io/badge/Operations-Event_Logistics-orange?style=for-the-badge&logo=eventbrite)](https://github.com/cta-jklu)
+[![Tech Hub](https://img.shields.io/badge/Focus-Tech_Hub-blue?style=for-the-badge&logo=react)]()
+[![Logistics](https://img.shields.io/badge/Operations-Event_Logistics-orange?style=for-the-badge&logo=eventbrite)]()
 [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)]()
 
 </div>
