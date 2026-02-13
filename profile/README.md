@@ -260,10 +260,6 @@ Got a project idea? Need technical support for an event? **Reach out to us.**
 
 Made with ❤️ by the CTA Team
 
-<br><br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-CTA--JKLU-181717?style=flat-square&logo=github)](https://github.com/cta-jklu)
-
 </div>
 
 <br>
